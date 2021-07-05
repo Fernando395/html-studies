@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#video1 {
+    position: absolute;
+    left: 345px;
+    top: 70px;
+    
+}
+
+#video2 {
+    position: absolute;
+    left: 645px;
+    top: 70px;
+}
+
+#video3 {
+    position: absolute;
+    left: 345px;
+    top: 315px;
+}
+
+#video4 {
+    position: absolute;
+    left: 645px;
+    top: 315px;
+}
+
+
+
